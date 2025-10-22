@@ -13,3 +13,13 @@ print("\n Displays a new line")
 print("\t Displays a new tab")
 print("\\ Displays a back slash")
 print("\' Displays a single quote")
+
+
+#Display a box
+
+print("##########")
+print("#        #")
+print("#        #")
+print("#        #")
+print("##########")
+
