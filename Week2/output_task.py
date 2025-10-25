@@ -9,4 +9,4 @@ activity=input()
 if activity == "calculate":
     print(f"Performing: {activity}")
 else:
-print("Activity completed")
+    print("Activity completed")
